@@ -21,4 +21,4 @@ As for the zookeper, the server sends heartbeat signal to the zookeeper to get t
 
 All in all there is low latency and provides real time data streams to the consumer smoothly.
 
-This project is developed in python(majorly).
+This project is developed in python.
